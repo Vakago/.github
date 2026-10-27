@@ -2,6 +2,9 @@
 :desktop_computer: *Software for your creative workflows* <br />
 :earth_africa: [www.vakago-tools.com](https://vakago-tools.com)  <br />
 
+*GitHub Links*
+* [Batch Stabilization](https://github.com/Vakago/batch-analysis)
+
 *Video Editing Extensions:*
 * [Batch Video Stabilization for Premiere Pro](https://vakago-tools.com/)
 * [Horizon Fixer (Straighten Tool) for Adobe Premiere Pro](https://vakago-tools.com/horizon-fixer-extension/)
