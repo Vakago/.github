@@ -20,3 +20,6 @@
 
 *Other:*
 * [Modern UI Color Palettes](https://vakago-tools.com/music-search-extension/)
+
+*Documentation:*
+* [Batch Stabilizer Documentation](https://vakago.github.io/batch-analysis/) 
